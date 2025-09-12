@@ -1,0 +1,13 @@
+Line [26, 0, 0.1]: ['BUS-6', 'BUS-11', 12]
+Line [26, 0, 0.1]: ['BUS-6', 'BUS-11', 12]
+load policy successful
+---------------------------------------
+rl reward: [731.9535643727222]
+pso reward: [777.3524927522179]
+---------------------------------------
+static violation 0, dynamic violation 1
+rl: average reward: 731.9535643727, static after 0, dynamic after 0, unconv after: 0
+pso average reward: 777.3524927522, static after 0, dynamic after 0, unconv after: 0
+---------------------------------------
+rl cal time: 0.06332778930664062, rl check time: 0.02800774574279785, pso cal time: 1038.3719778060913
+---------------------------------------

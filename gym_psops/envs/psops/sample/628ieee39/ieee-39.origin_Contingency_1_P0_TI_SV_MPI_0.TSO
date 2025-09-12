@@ -1,22 +1,22 @@
                                ---------暂态稳定计算结果-------
 
 
-                                暂态稳定计算时间：0.01032510      秒  
+                                暂态稳定计算时间：0.01117220      秒  
 
-TS_Calculation_Time: 	0.01030350	
-NodalVolSol_Time: 	0.00492420	
-TS_FaultOption_Time: 	0.00000660	
-TS_PreStepC_Time: 	0.00157850	
-TS_CurStepC_Time: 	0.00322610	
-ConstInject_Time: 	0.00014870	
-VaryInject_Time: 	0.00037410	
-ForwardSub_Time: 	0.00207140	
-BackwardSub_Time: 	0.00138450	
-VoltageErr_Time: 	0.00033800	
-SourceVolt_Time: 	0.00016720	
-TS_EletricP_Time: 	0.00022910	
-ZSourceVol_Time: 	0.00002010	
-SrlOverhead_Time: 	0.0007592
+TS_Calculation_Time: 	0.01114800	
+NodalVolSol_Time: 	0.00502030	
+TS_FaultOption_Time: 	0.00000740	
+TS_PreStepC_Time: 	0.00222370	
+TS_CurStepC_Time: 	0.00328860	
+ConstInject_Time: 	0.00014710	
+VaryInject_Time: 	0.00038960	
+ForwardSub_Time: 	0.00204870	
+BackwardSub_Time: 	0.00143690	
+VoltageErr_Time: 	0.00035990	
+SourceVolt_Time: 	0.00017380	
+TS_EletricP_Time: 	0.00024550	
+ZSourceVol_Time: 	0.00001930	
+SrlOverhead_Time: 	0.0008075
 ================================================================================================================================================================
                                                       AC Fault                                                             
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,6 @@
+Environment: optimum, Sampler: stepwise, Static_check: all, Observation_type: minimum, Action_type: absolute, Reward_type: unstabletime, Voltage_check: true, Rotor_angle_criterion: 180.0, Reward_coefficient: 2000.0
+Line [26, 0, 0.1]: ['BUS-6', 'BUS-11', 12]
+Line [26, 0, 0.1]: ['BUS-6', 'BUS-11', 12]
+agent_model_path: 00saved_results/models/scopf_agent/test, insecure_training: false, policy_type: ddpg, worker_num: 1, random_seed: 42, warm_up_step: 0, eval_period: 100,episodes_for_evaluation: 100, max_time_step: 20000, mini_batch_size: 256, explore_noise: 1.0, discount_factor: 0.0, training_epoch_each_episode: 1
+model_parameters: {'state_dim': 38, 'action_dim': 19, 'hidden_dim': 256, 'discount': 0.0, 'actor_lr': 0.0001, 'critic_lr': 0.001, 'tau': 0.05, 'total_step': 20000}
+Total calculation time: 2638.8828587532043 seconds.
