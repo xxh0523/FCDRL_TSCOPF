@@ -56,6 +56,6 @@ python sopf_base.py --comparing --model .\00saved_results\models\scopf_agent\tes
 ```
 
 # References
-[1] **T. Xiao**, Y. Chen, H. Diao, S. Huang, and C. Shen, “Fast-Converging Deep Reinforcement Learning for Optimal Dispatch of Large-Scale Power Systems under Transient Security Constraints,” Journal of Modern Power Systems and Clean Energy, pp. 1–12, 2025, Early Access, doi: [10.35833/MPCE.2024.000624](https://ieeexplore.ieee.org/document/10944544).
+[1] **T. Xiao**, Y. Chen, H. Diao, S. Huang, and C. Shen, “Fast-Converging Deep Reinforcement Learning for Optimal Dispatch of Large-Scale Power Systems under Transient Security Constraints,” *Journal of Modern Power Systems and Clean Energy*, pp. 1–12, 2025, Early Access, doi: [10.35833/MPCE.2024.000624](https://ieeexplore.ieee.org/document/10944544).
 
 [2] **T. Xiao**, Y. Chen*, J. Wang, S. Huang, W. Tong, and T. He, “Exploration of AI-Oriented Power System Transient Stability Simulations,” *Journal of Modern Power Systems and Clean Energy*, vol. 11, no. 2, pp. 401–411, Mar. 2023, doi: [10.35833/MPCE.2022.000099](https://ieeexplore.ieee.org/document/9833418).
